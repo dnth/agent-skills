@@ -1,3 +1,8 @@
+---
+name: human-pr-writer
+description: Write pull request descriptions that sound human, not AI-generated. Use when creating PRs, writing PR descriptions, or drafting pull request text. Leads with user impact, avoids robotic language, pre-answers reviewer questions, and states scope honestly.
+---
+
 # Human PR Writer
 
 Write PR descriptions that sound like a person wrote them.
