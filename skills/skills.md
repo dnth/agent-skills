@@ -14,7 +14,7 @@ Ask yourself:
 Run the context script to extract git information:
 
 ```bash
-python scripts/pr_context.py
+uv run scripts/pr_context.py
 ```
 
 This outputs JSON with:
@@ -24,7 +24,7 @@ This outputs JSON with:
 
 For just the diff:
 ```bash
-python scripts/pr_context.py --diff
+uv run scripts/pr_context.py --diff
 ```
 
 ## PR Structure
