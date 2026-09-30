@@ -1,4 +1,0 @@
-interface:
-  display_name: "Persona UX Test"
-  short_description: "Blind-test products through real UI with isolated personas"
-  default_prompt: "Use $persona-ux-test to run an isolated persona-based UX test through the real product UI and report the findings in English."

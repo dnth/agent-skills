@@ -1,3 +1,9 @@
+# Third-Party Notices
+
+## Persona UX Test
+
+The English `persona-ux-test` skill is derived from [Eric Wong's Persona UX Test](https://github.com/Ericwong5021/persona-ux-test).
+
 MIT License
 
 Copyright (c) 2026 Eric Wong
